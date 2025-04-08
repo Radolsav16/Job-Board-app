@@ -13,7 +13,7 @@ A modern **Job Board App** that connects job seekers with employers. Easily brow
 ---
 
 ## 🏢 Tech Stack
-- **Frontend**: React.js (React Router, TailwindCSS,TypeScript)
+- **Frontend**: React.js (React Router, TailwindCSS)
 - **Backend**: Express.js, Node.js
 - **Database**: MongoDB
 - **Authentication**: JWT
