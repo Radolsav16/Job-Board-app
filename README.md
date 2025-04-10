@@ -1,4 +1,4 @@
-# 🚀 Job Board App  
+# 🚀 Job Board App - NextHire
 A modern **Job Board App** that connects job seekers with employers. Easily browse job listings, apply for positions, and manage job postings in a sleek and intuitive interface.  
 
 ---
