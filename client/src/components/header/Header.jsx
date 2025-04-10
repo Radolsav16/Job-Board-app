@@ -47,12 +47,12 @@ export default function Header(){
               </a>
             ))}
             {/* Register Link */}
-            <a
-              href="#"
+            <Link
+             to="/sign-up"
               className="text-sm font-semibold text-gray-900 hover:text-blue-600 hover:scale-105 transition-all"
             >
-              Register
-            </a>
+              Sign up
+            </Link>
           </div>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
             <a href="#" className="text-sm font-semibold text-gray-900 hover:text-blue-600 hover:scale-105 transition-all">
